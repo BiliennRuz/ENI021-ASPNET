@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TP01-module03-Linq": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58265;http://localhost:58267"
+    }
+  }
+}

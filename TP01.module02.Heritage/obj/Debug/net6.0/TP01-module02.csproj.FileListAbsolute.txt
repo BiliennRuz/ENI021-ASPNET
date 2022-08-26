@@ -1,0 +1,15 @@
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\bin\Debug\net6.0\TP01-module02.exe
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\bin\Debug\net6.0\TP01-module02.deps.json
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\bin\Debug\net6.0\TP01-module02.runtimeconfig.json
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\bin\Debug\net6.0\TP01-module02.dll
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\bin\Debug\net6.0\TP01-module02.pdb
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\TP01-module02.csproj.AssemblyReference.cache
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\TP01-module02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\TP01-module02.AssemblyInfoInputs.cache
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\TP01-module02.AssemblyInfo.cs
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\TP01-module02.csproj.CoreCompileInputs.cache
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\TP01-module02.dll
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\refint\TP01-module02.dll
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\TP01-module02.pdb
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\TP01-module02.genruntimeconfig.cache
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\TP01-module02\TP01-module02\obj\Debug\net6.0\ref\TP01-module02.dll
