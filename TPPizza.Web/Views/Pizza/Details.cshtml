@@ -1,0 +1,16 @@
+﻿@model TPPizza.Web.Models.PizzaViewModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    @await this.Html.PartialAsync("_FormDeleteDetail", this.Model)
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    <a asp-action="Index">Back to List</a>
+</div>
