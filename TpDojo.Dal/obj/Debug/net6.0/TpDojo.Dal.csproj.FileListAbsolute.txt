@@ -1,0 +1,42 @@
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.deps.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.runtimeconfig.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\refint\TpDojo.Dal.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\Démos\CoursASPNET\TpDojo.Dal\obj\Debug\net6.0\ref\TpDojo.Dal.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.deps.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.runtimeconfig.json
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\refint\TpDojo.Dal.dll
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.pdb
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\Cours ASP.NET\TPs\TpDojo\TpDojo.Dal\obj\Debug\net6.0\ref\TpDojo.Dal.dll
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.deps.json
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.runtimeconfig.json
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.dll
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\bin\Debug\net6.0\TpDojo.Dal.pdb
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.csproj.AssemblyReference.cache
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.AssemblyInfoInputs.cache
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.AssemblyInfo.cs
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.csproj.CoreCompileInputs.cache
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.dll
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\refint\TpDojo.Dal.dll
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.pdb
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\TpDojo.Dal.genruntimeconfig.cache
+C:\Users\damps2022\OneDrive - ENI Ecole Informatique\21-ASP.NET\ASPNET\TpDojo.Dal\obj\Debug\net6.0\ref\TpDojo.Dal.dll
