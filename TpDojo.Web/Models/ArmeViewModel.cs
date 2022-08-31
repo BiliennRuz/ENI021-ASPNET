@@ -9,10 +9,17 @@ public class ArmeViewModel
     public string Nom { get; set; }
     public int Degats { get; set; }
 
-    internal static ArmeViewModel FromArmeDto(ArmeDto? arme)
+    public string Display => $"{this.Nom} (dégats: {this.Degats})";
+
+    internal static ArmeViewModel? FromArmeDto(ArmeDto? arme)
         => arme is null
-        ? new()
-        : new ArmeViewModel { Id = arme.Id, Nom = arme.Nom, Degats = arme.Degats };
+        ? null
+        : new ArmeViewModel
+        {
+            Id = arme.Id,
+            Nom = arme.Nom,
+            Degats = arme.Degats
+        };
 
     internal static List<ArmeViewModel> FromArmes(List<ArmeDto> armeDtos)
         => armeDtos.Select(FromArmeDto).ToList();

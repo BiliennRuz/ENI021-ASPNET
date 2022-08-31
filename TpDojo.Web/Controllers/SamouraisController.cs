@@ -9,10 +9,12 @@ using TpDojo.Web.Models;
 public class SamouraisController : Controller
 {
     private readonly SamouraiService samouraiService;
+    private readonly ArmeService armeService;
 
-    public SamouraisController(SamouraiService samouraiService)
+    public SamouraisController(SamouraiService samouraiService, ArmeService armeService)
     {
         this.samouraiService = samouraiService;
+        this.armeService = armeService;
     }
 
     // GET: Samourais
@@ -37,12 +39,14 @@ public class SamouraisController : Controller
             return this.NotFound();
         }
 
-        return this.View(samourai);
+        return this.View(SamouraiViewModel.FromSamouraiDto(samourai));
     }
 
     // GET: Samourais/Create
-    public IActionResult Create()
+    public async Task<IActionResult> Create()
     {
+        await this.RemplirListesAsync();
+
         return this.View();
     }
 
@@ -51,11 +55,12 @@ public class SamouraisController : Controller
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Create(SamouraiViewModel samourai)
+    public async Task<IActionResult> Create(SamouraiFormViewModel samourai)
     {
         if (this.ModelState.IsValid)
         {
-            await this.samouraiService.AddSamouraiAsync(SamouraiViewModel.ToSamouraiDto(samourai));
+            await this.samouraiService.AddSamouraiAsync(SamouraiFormViewModel.ToSamouraiDto(samourai), samourai.ArmeId);
+            
             return this.RedirectToAction(nameof(Index));
         }
         return this.View(samourai);
@@ -74,7 +79,8 @@ public class SamouraisController : Controller
         {
             return this.NotFound();
         }
-        return this.View(samourai);
+        await this.RemplirListesAsync();
+        return this.View(SamouraiFormViewModel.FromSamouraiDto(samourai));
     }
 
     // POST: Samourais/Edit/5
@@ -124,8 +130,8 @@ public class SamouraisController : Controller
         {
             return this.NotFound();
         }
-
-        return this.View(samourai);
+        await this.RemplirListesAsync();
+        return this.View(SamouraiViewModel.FromSamouraiDto(samourai));
     }
 
     // POST: Samourais/Delete/5
@@ -140,5 +146,10 @@ public class SamouraisController : Controller
     private async Task<bool> SamouraiExists(int id)
     {
       return await this.samouraiService.SamouraiExistsAsync(id);
+    }
+
+    private async Task RemplirListesAsync()
+    {
+        this.ViewData["Armes"] = ArmeViewModel.FromArmes(await this.armeService.GetArmesAsync());
     }
 }

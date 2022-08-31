@@ -10,10 +10,12 @@ using TpDojo.Dal.Abstractions;
 public class SamouraiService
 {
     private readonly ISamouraiAccessLayer samouraiAccessLayer;
+    private readonly IArmeAccessLayer armeAccessLayer;
 
-    public SamouraiService(ISamouraiAccessLayer samouraiAccessLayer)
+    public SamouraiService(ISamouraiAccessLayer samouraiAccessLayer, IArmeAccessLayer armeAccessLayer)
     {
         this.samouraiAccessLayer = samouraiAccessLayer;
+        this.armeAccessLayer = armeAccessLayer;
     }
 
     public async Task<List<SamouraiDto>> GetSamouraisAsync()
@@ -31,10 +33,13 @@ public class SamouraiService
         return SamouraiDto.FromSamourai(arme);
     }
 
-    public async Task AddSamouraiAsync(SamouraiDto armeDto)
+    public async Task AddSamouraiAsync(SamouraiDto samouraiDto, int armId)
     {
-        var arme = SamouraiDto.ToSamourai(armeDto);
-        await this.samouraiAccessLayer.AddAsync(arme);
+        var samourai = SamouraiDto.ToSamourai(samouraiDto);
+        var arme = await this.armeAccessLayer.GetByIdAsync(armId);
+        samourai.Arme = arme;
+
+        await this.samouraiAccessLayer.AddAsync(samourai);
     }
 
     public async Task UpdateSamouraiAsync(SamouraiDto armeDto)
